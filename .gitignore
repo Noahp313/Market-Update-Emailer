@@ -1,0 +1,11 @@
+# Environmental Variables
+.env
+
+# Virtual Environment
+.venv/
+
+# Visual Studio Settings
+.vscode/
+
+# Python Cache Files
+__pycache__/
